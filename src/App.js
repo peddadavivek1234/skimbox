@@ -24,11 +24,10 @@ function App() {
         <div className="flexing">
           <input type="radio" />
           <p>1 Pair</p>
-          <p className="strike">DKK 195.00</p>
-          <p>50% OFF</p>
+          <p className="per">50% OFF</p>
         </div>
         <div>
-          <p>DKK 97.50</p>
+          <p className="DKK">DKK 97.50</p>
         </div>
       </div>
       <div
